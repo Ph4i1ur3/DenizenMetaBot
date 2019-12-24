@@ -28,7 +28,7 @@ namespace DenizenBot
         /// </summary>
         public static readonly string[] DENIZEN_SOURCES = new string[]
         {
-            "https://github.com/Ph4i1ur3/Denizen/archive/dev.zip",
+            "https://github.com/Ph4i1ur3/Denizen/archive/aurora.zip",
             "https://github.com/DenizenScript/Denizen-Core/archive/master.zip"
         };
 
